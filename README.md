@@ -166,10 +166,12 @@
 </td>
 </tr>
 </table>
+<br>
+<br>
+<br>
+<br>
+<br>
+**ВСЕ**
+<img alt="Globe" height="80" src="lv_0_20230409003958.gif.jpg">
 
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-file.gif
 
