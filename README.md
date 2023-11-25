@@ -22,7 +22,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://www.youtube.com/playlist?list=PLD500F1A9DB642608">
+<a href="https://www.youtube.com/playlist?list=PLD500F1A9DB64260">
 <strong>Hot pursuit 2</strong>
 <br />
 <br />
@@ -30,7 +30,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="file.gif">
+<img alt="Globe" height="80" src="m1000x1000.jpeg">
 </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="file.gif"> 
+<img height="100" alt="Music" src="i.jpeg"> 
 </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="file.gif">
+<img alt="Globe" height="80" src="7491_5ef8b15a62861.jpg">
 </a>
 </p>
 
@@ -76,7 +76,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="file.gif"> 
+<img height="100" alt="Music" src="1405_526887.jpg"> 
 </a>
 </p>
 
