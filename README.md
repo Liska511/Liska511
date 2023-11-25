@@ -22,8 +22,8 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
-<strong>Я попытаюь придумать хоть что=то. Честно</strong>
+<a href="https://www.youtube.com/playlist?list=PLD500F1A9DB642608">
+<strong>Hot pursuit 2</strong>
 <br />
 <br />
 <br />
@@ -38,8 +38,8 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=WZlYGN5W2Yg">
-<strong>Мне сказали, что я самый лучший. Я не поверил.</strong>
+<a href="https://www.youtube.com/playlist?list=PLDE0DBBFAA8E2F771">
+<strong>Underground 2.</strong>
 <br />
 <br />
 
@@ -53,8 +53,8 @@
 </tr>
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
-<strong>Я попытаюь придумать хоть что=то. Честно</strong>
+<a href="https://www.youtube.com/watch?v=IadccBJdMMY&list=PL5TXH58GrZaP6wEnZO_nCLqoLIuU2XpAt">
+<strong>Underground.</strong>
 <br />
 <br />
 <br />
@@ -69,8 +69,8 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=WZlYGN5W2Yg">
-<strong>Мне сказали, что я самый лучший. Я не поверил.</strong>
+<a href="https://www.youtube.com/playlist?list=PLZPilAQ9a3X2uLFY5Z37kCPYblvayN9tC">
+<strong>Carbon</strong>
 <br />
 <br />
 
