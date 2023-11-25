@@ -1,4 +1,9 @@
-### Hi there 👋
+# ПРИВЕЕЕТ! 👋
+## МНЕ СКАЗАЛИ, ЧТО КОДИТЬ ЭТО ВЕСЕЛО
+### Я поверил 'rgb(9, 105, 218)'
+<span style="color:rgb(255, 105, 218)">some *blue* text</span>.
+> По статистике 100% программистов страдают недосыпом. Я 101-ый. Я сплю всю жизнь
+
 [<img src="https://raw.githubusercontent.com/Liska511/Liska511/master/springtrap.gif.jpg" alt="👋 Hi there! I'm Liska511" title="👋 Hi there! I'm Liska511 "/>]
 
 
@@ -10,7 +15,7 @@
 <tr>
 <td align="center">
 <a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
+<strong>Я попытаюь придумать хоть что=то. Честно</strong>
 <br />
 <br />
 <br />
@@ -26,7 +31,7 @@
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=WZlYGN5W2Yg">
-<strong>Listen to cool music</strong>
+<strong>Мне сказали, что я самый лучший. Я не поверил.</strong>
 <br />
 <br />
 
